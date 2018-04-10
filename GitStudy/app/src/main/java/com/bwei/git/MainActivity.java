@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //这是我使用git版本控制工具提交代码
+        //这是切换到develop分支上开发
     }
 }
